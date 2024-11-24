@@ -56,7 +56,7 @@ when the glowing effect is applied, the first custom armor texture is what glowi
    - Replace `y` with the vertical position of the armor texture in the stacked image (0 for the first, 1 for the second, etc.).
    - Replace `x` with the horizontal position of the armor texture in the stacked image (0 for the first, 1 for the second, etc.).
 
-   > x and Y are offset like x * 64 , and y * 32 starting from 0 0 the top left corner
+   > X and Y are offset like x * 64 , and y * 32 starting from 0 0 the top left corner
 
 ## performance:
 
